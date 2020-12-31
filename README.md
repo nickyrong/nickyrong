@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a junior hydrologist at Knight Piésold
+- 🏢 I’m currently working as a junior hydrologist at Knight Piésold
 - 🌱 I’m currently learning stochastic physics and causal inference in hydrology (PhD student at UBC)
 - 📫 How to reach me: nickyrong@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love eating durian
+- ♍ Pronouns: he/him
+- 🙊 Fun fact: I love eating durian
 <!--
 **nickyrong/nickyrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
