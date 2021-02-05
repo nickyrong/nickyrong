@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning stochastic physics and causal inference in hydrology (PhD student at UBC)
 - 📫 How to reach me: nickyrong@gmail.com
 - ♍ Pronouns: he/him
-- 🙊 Fun fact: Durian is known as the "king of fruits" for its size and "distinctive" smell.
+- 🙊 Fun fact: Durian is known as the "king of fruits" for its size and "distinctive" smell
 <!--
 **nickyrong/nickyrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
