@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏢 I’m a hydrologist at Knight Piésold Consulting
+- 🏢 I’m a hydrologist at Knight Piésold (Vancouver, Canada)
 - 🌱 I’m currently learning stochastic physics and causal inference in hydrology (PhD student at UBC on leave)
 - 📫 How to reach me: nickyrong@gmail.com
 - ♍ Pronouns: he/him
