@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏢 I’m a hydrologist at Knight Piésold (Vancouver, Canada)
-- 🌱 I’m currently learning stochastic physics and causal inference in hydrology (PhD student at UBC on leave)
+- 🌱 Interested in learning about stochastic physics and causal inference in hydrology
 - 📫 How to reach me: nickyrong@gmail.com
 - ♍ Pronouns: he/him
 - 🙊 Fun fact: Durian is known as the "king of fruits" for its size and "distinctive" smell
